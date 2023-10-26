@@ -1,0 +1,32 @@
+body{
+    font-family: Comic Sans MS;
+}
+
+.logo_cft_estatal{
+    width: 100px;
+    height: 100px;
+}
+
+.portada{
+    width: 100%;
+    max-height: 300px;
+}
+.parrafo{
+    text-align: center;
+}
+
+.container_form{
+    text-align: center;
+
+}
+
+#formulario{
+    margin-left: 39%;
+    text-align: center;
+    max-width: 450px;
+}
+
+#boton{
+    width: 450px;
+    max-height: 400px;
+}
